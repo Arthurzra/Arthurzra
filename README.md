@@ -3,7 +3,7 @@
 <p>Meu nome é Arthur Santos. E sou estudante de programação, 4º semestre, <b>futuro formando</b> em Análise e Desenvolvimento de Sistemas.
  <br>Apaixonado tanto pela <i>front-end</i> quanto pela <i>back-end</i>.</br>
  Entusiasta em MACHINE Learning/DEEP Learning e I.A. 
- <br>Sempre aprendendo mais, e mais sobre linguagens em geral, com grande vontade de conhecer e aplicar outras, como: <i>C</i>, <i>C+</i>, <i>C#</i>
+ <br>Sempre aprendendo mais e mais sobre linguagens em geral, com grande vontade de conhecer e aplicar outras, como: <i>C</i>, <i>C+</i>, <i>C#</i>
  <br>Fluente na língua inglesa, com mais de 10 anos de estudo e portador de um diploma "<b>With Honours"<b></br>
  </p>
 
