@@ -12,7 +12,7 @@
 
 
 <div align="center" style="display: inline_block"<br>
-<img align="center" src="https://skills.thijs.gg/icons?i=html,css,js,java,py,kotlin,mysql,lua,)"></img>
+<img align="right-top" src="https://skills.thijs.gg/icons?i=html,css,js,java,py,kotlin,mysql,lua,)"></img>
 
 
 </div>
