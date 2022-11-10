@@ -21,8 +21,8 @@
 
 <div>
   <a href="https://github.com/Arthurzra">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Arthurzra&show_icons=true&theme=radical"/ style="display:inline-block;" >
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurzra&layout=compact"/ style="display:inline-block;">
+  <img height="180cm" style="display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=Arthurzra&show_icons=true&theme=radical"/>
+  <img height="180cm" style="display:inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurzra&layout=compact"/ >
 
 </div>
 
