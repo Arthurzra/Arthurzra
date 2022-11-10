@@ -19,10 +19,10 @@
 
 <hr>
 
-<div>
+<div style="display: flex; flex-direction: row;">
   <a href="https://github.com/Arthurzra">
-  <img height="180cm" style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=Arthurzra&show_icons=true&theme=radical"/>
-  <img height="180cm" style="display:inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurzra&layout=compact"/ >
+  <img height="180cm"  src="https://github-readme-stats.vercel.app/api?username=Arthurzra&show_icons=true&theme=radical"/>
+  <img height="180cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurzra&layout=compact"/ >
 
 </div>
 
