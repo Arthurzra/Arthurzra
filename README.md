@@ -12,14 +12,14 @@
 
 
 <div align="center" style="display: inline_block"<br>
-<img align="right-top" src="https://skills.thijs.gg/icons?i=html,css,js,java,py,kotlin,mysql,lua,)"></img>
+<img align="center" src="https://skills.thijs.gg/icons?i=html,css,js,java,py,kotlin,mysql,lua,)"></img>
 
 
 </div>
 
 <hr>
 
-<div>
+<div class="inline-block">
   <a href="https://github.com/Arthurzra">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Arthurzra&show_icons=true&theme=radical"/ >
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurzra&layout=compact"/>
