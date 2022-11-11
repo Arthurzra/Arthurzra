@@ -7,6 +7,8 @@
  <br>Fluente na língua inglesa, com mais de 10 anos de estudo e portador de um diploma "<b>With Honours"<b></br>
  </p>
 
+<a href="https://arthurzra.github.io/">
+<p><img align="right" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"</img></p>
 
 <h3> - Linguagens de Programação que tenho afinidade - </h3>
 
