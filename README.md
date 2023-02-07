@@ -23,9 +23,9 @@
 <hr>
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Arthurzra&show_icons=true&theme=radical" />
+<img style="height: auto; width: 55%;" class="img" src="https://readme-stats-arthurzra.vercel.app/api?username=Arthurzra&show_icons=true&theme=radical" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurzra&theme=dark&layout=compact"/></div>
+<img style="height: auto; width: 40%;" class="img" src="https://readme-stats-arthurzra.vercel.app/api/top-langs/?username=Arthurzra&theme=dark&layout=compact"/></div>
 </div>
 
