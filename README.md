@@ -1,6 +1,6 @@
 <h1 align="center">Olá! 👋🏻 </h1>
 
-<p>Meu nome é Arthur Santos. E sou estudante de programação, 4º semestre, <b>futuro formando</b> em Análise e Desenvolvimento de Sistemas.
+<p>Meu nome é Arthur Santos. E sou estudante de programação, 5º semestre, <b>futuro formando</b> em Análise e Desenvolvimento de Sistemas.
  <br>Apaixonado tanto pela <i>front-end</i> quanto pela <i>back-end</i>.</br>
  Entusiasta em MACHINE Learning/DEEP Learning e I.A. 
  <br>Sempre aprendendo mais e mais sobre linguagens em geral, com grande vontade de conhecer e aplicar outras, como: <i>C</i>, <i>C+</i>, <i>C#</i>
