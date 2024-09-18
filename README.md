@@ -15,7 +15,7 @@
 
 
 <div align="center" style="display: inline_block"<br>
-<img align="center" src="https://skills.thijs.gg/icons?i=html,css,js,java,py,kotlin,mysql,lua,)"></img>
+<img align="center" src="https://skillicons.dev/icons?i=cs,html,css,js,java,py,kotlin,mysql,lua,)"></img>
 
 
 </div>
