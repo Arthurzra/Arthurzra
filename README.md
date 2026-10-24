@@ -1,31 +1,62 @@
-<h1 align="center">Olá! 👋🏻 </h1>
+<h1 align="center">Olá! Eu sou o Arthur Santos 👋🏻</h1>
 
-<p>Meu nome é Arthur Santos. E sou estudante de programação, <b>formado</b> em Análise e Desenvolvimento de Sistemas.
- <br>Apaixonado tanto pela <i>front-end</i> quanto pela <i>back-end</i>.</br>
- Entusiasta em MACHINE Learning/DEEP Learning e I.A. 
- <br>Sempre aprendendo mais e mais sobre linguagens em geral, com grande vontade de conhecer e aplicar outras, como: <i>C</i>, <i>C+</i>, <i>C#</i>
- <br>Fluente na língua inglesa, com mais de 10 anos de estudo e portador de um diploma "<b>With Honours"<b></br>
- </p>
+<p align="center">
+  Desenvolvedor .NET · C# · Windows Forms · Blazor · VB6
+</p>
 
-<a href="https://arthurzra.github.io/" target="_blank">
-<p><img align="right" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"</img></p>
- </a>
+<p align="center">
+  <a href="https://arthurzra.github.io/">Portfólio</a>
+  ·
+  <a href="https://www.linkedin.com/in/arthurzra/">LinkedIn</a>
+</p>
 
-<h3> - Linguagens de Programação que tenho afinidade - </h3>
+## Sobre mim
 
+Sou formado em **Análise e Desenvolvimento de Sistemas** e trabalho com
+desenvolvimento e manutenção de sistemas empresariais.
 
-<div align="center" style="display: inline_block"<br>
-<img align="center" src="https://skillicons.dev/icons?i=cs,html,css,js,java,py,kotlin,mysql,lua,)"></img>
+Minha experiência envolve aplicações desktop em **C# e Windows Forms**,
+desenvolvimento web com **Blazor**, manutenção de sistemas em **VB6** e
+trabalho com **SQL Server**. Também atuo com **Power Apps, Power Automate
+e SharePoint**.
 
+Tenho interesse em inteligência artificial e gosto de explorar outras
+tecnologias por meio de projetos pessoais.
 
-</div>
+**Inglês fluente**, com mais de 10 anos de estudo e diploma *With Honours*.
 
-<hr>
+## Tecnologias e conhecimentos
 
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-vehv-arthurzra.vercel.app/api?username=Arthurzra&show_icons=true&theme=radical" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-vehv-arthurzra.vercel.app/api/top-langs/?username=Arthurzra&theme=dark&layout=compact"/></div>
-</div>
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,java,kotlin"
+    alt="C#, .NET, HTML, CSS, JavaScript, Java e Kotlin"
+  />
+</p>
 
+- **Desktop e web:** C#, .NET, Windows Forms e Blazor.
+- **Sistemas legados:** VB6 e migração gradual para .NET.
+- **Banco de dados:** SQL Server e T-SQL.
+- **Power Platform:** Power Apps, Power Automate e SharePoint.
+
+<h2>Estatísticas do GitHub</h2>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-vehv-arthurzra.vercel.app/api?username=Arthurzra&amp;show_icons=true&amp;theme=radical"
+    alt="Estatísticas do GitHub de Arthur Santos"
+  />
+  <img
+    height="165"
+    src="https://github-readme-vehv-arthurzra.vercel.app/api/top-langs/?username=Arthurzra&amp;theme=radical&amp;layout=compact"
+    alt="Linguagens mais utilizadas nos repositórios"
+  />
+</p>
+
+---
+
+Parte da minha experiência profissional vem de sistemas empresariais
+cujo código não está disponível publicamente. No meu
+[portfólio](https://arthurzra.github.io/), apresento essas áreas de atuação
+e meus projetos pessoais.
